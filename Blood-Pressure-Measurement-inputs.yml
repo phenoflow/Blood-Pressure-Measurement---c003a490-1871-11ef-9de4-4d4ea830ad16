@@ -1,0 +1,69 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/blood-pressure-measurement-lying---primary.py
+inputModule3:
+  class: File
+  path: python/blood-pressure-measurement-standing---primary.py
+inputModule4:
+  class: File
+  path: python/average-blood-pressure-measurement---primary.py
+inputModule5:
+  class: File
+  path: python/blood-pressure-measurement-sitting---primary.py
+inputModule6:
+  class: File
+  path: python/blood-pressure-measurement-reading---primary.py
+inputModule7:
+  class: File
+  path: python/blood-pressure-measurement-check---primary.py
+inputModule8:
+  class: File
+  path: python/blood-pressure-measurement-ambulatory---primary.py
+inputModule9:
+  class: File
+  path: python/systolic-blood-pressure-measurement---primary.py
+inputModule10:
+  class: File
+  path: python/blood-pressure-measurement-borderline---primary.py
+inputModule11:
+  class: File
+  path: python/blood-pressure-measurement-night---primary.py
+inputModule12:
+  class: File
+  path: python/diastolic-blood-pressure-measurement---primary.py
+inputModule13:
+  class: File
+  path: python/blood-pressure-measurement-raised---primary.py
+inputModule14:
+  class: File
+  path: python/blood-pressure-measurement---primary.py
+inputModule15:
+  class: File
+  path: python/blood-pressure-measurement-interval---primary.py
+inputModule16:
+  class: File
+  path: python/normal-blood-pressure-measurement---primary.py
+inputModule17:
+  class: File
+  path: python/blood---primary.py
+inputModule18:
+  class: File
+  path: python/blood-pressure-measurement-labile---primary.py
+inputModule19:
+  class: File
+  path: python/stable-blood-pressure-measurement---primary.py
+inputModule20:
+  class: File
+  path: python/blood-pressure-measurement-taken---primary.py
+inputModule21:
+  class: File
+  path: python/blood-pressure-measurement-screening---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
